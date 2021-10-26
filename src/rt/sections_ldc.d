@@ -30,7 +30,6 @@ else version (Darwin) {}
 else version (FreeBSD) {}
 else version (DragonFlyBSD) {}
 else version (NetBSD) {}
-else version (OpenBSD) {}
 else version (Windows) {}
 else version (LDC):
 
